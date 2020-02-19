@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">templatepattern</string>
+    <string name="news_title">El bitcoin alcanza los 6000 dólares</string>
+    <string name="news_content">Después de casi 5 años en circulación, el bitcoin se ha establecido como la criptomoneda del siglo y ha alcanzado los 6000 dólares por unidad. Cuando se lanzó, un bitcoin equivalía apenas a unos pocos céntimos de dólar</string>
+    <string name="sports_title">Lewis Hamilton consigue su cuarto título</string>
+    <string name="sports_content">Tras una temporada muy difícil y luchar de tu a tu con sus rivales, Sebastian Vettel y Valteri Bottas, el británico se alza con su cuarto campeonato del mundo, igualando el número de títulos mundiales que posee Sebastian Vettel.</string>
+</resources>
